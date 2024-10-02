@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Android development course**
+- 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me **manishyadavjaipur9928@gmail.com**
 
